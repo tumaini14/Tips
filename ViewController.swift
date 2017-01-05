@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  tips
 //
-//  Created by Steve Buza on 12/4/15.
-//  Copyright © 2015 codepath. All rights reserved.
+//  Created by Steve Buza on 12/29/16.
+//  Copyright © 2016 codepath. All rights reserved.
 //
 
 import UIKit
