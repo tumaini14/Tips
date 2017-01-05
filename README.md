@@ -38,14 +38,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
-Learning how to use optionals. 
-
-Having ideas that I didn't know how to implement.
-
-Working with the navigation controller was a bit difficult until I coded it.
-
 ## License
 
     Copyright [2015] [Steve Buza]
